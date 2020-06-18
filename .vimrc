@@ -1,5 +1,6 @@
 call plug#begin()
 Plug 'editorconfig/editorconfig-vim'
+Plug 'mhinz/vim-startify'
 Plug 'sheerun/vim-polyglot'
 Plug 'NLKNguyen/papercolor-theme'
 Plug 'itchyny/lightline.vim'
