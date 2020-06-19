@@ -9,6 +9,7 @@ Plugin | Description
 ------------ | -------------
 [EditorConfig](https://github.com/editorconfig/editorconfig-vim) | EditorConfig plugin for Vim
 [polyglot.vim](https://github.com/sheerun/vim-polyglot) | A solid language pack for Vim.
+[colorizer](https://github.com/lilydjwg/colorizer) | A Vim plugin to colorize all text in the form #rrggbb or #rgb.
 [lightline.vim](https://github.com/itchyny/lightline.vim) | A light and configurable statusline/tabline plugin for Vim
 [wal.vim](https://github.com/fnogcps/wal.vim) | A vim colorscheme for use with wal
 [vim-startify](https://github.com/mhinz/vim-startify) | The fancy start screen for Vim.
