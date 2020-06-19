@@ -1,6 +1,7 @@
 call plug#begin()
 Plug 'editorconfig/editorconfig-vim'
 Plug 'mhinz/vim-startify'
+Plug 'fnogcps/wal.vim'
 Plug 'sheerun/vim-polyglot'
 Plug 'NLKNguyen/papercolor-theme'
 Plug 'itchyny/lightline.vim'
@@ -9,14 +10,13 @@ Plug 'junegunn/limelight.vim'
 Plug 'junegunn/goyo.vim'
 call plug#end()
 
-set background=dark
-colorscheme PaperColor
-
 set number
 set laststatus=2
 
+colorscheme wal
+
 let g:lightline = {
-      \ 'colorscheme': 'powerline',
+      \ 'colorscheme': 'wal',
       \ 'active': {
       \   'left': [ [ 'mode', 'paste' ],
       \             [ 'gitbranch', 'readonly', 'filename', 'modified' ] ]
