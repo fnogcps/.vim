@@ -3,6 +3,10 @@
 
 > :pizza: My personal .vim dotfiles and configurations
 
+![screenshot-1](https://i.imgur.com/LQm0p0l.png)
+![screenshot-2](https://i.imgur.com/fk2Cx86.png)
+
+
 ## Plugins:
 
 Plugin | Description
