@@ -20,3 +20,5 @@ Plugin | Description
 [vim-gitbranch](https://github.com/itchyny/vim-gitbranch) | Provides the branch name of the current git repository
 [limelight.vim](https://github.com/junegunn/limelight.vim) | All the world's indeed a stage and we are merely players
 [goyo.vim](https://github.com/junegunn/goyo.vim) | Distraction-free writing in Vim.
+
+[![ForTheBadge built-with-love](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/fnogcps)
